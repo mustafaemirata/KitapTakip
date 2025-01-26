@@ -12,12 +12,12 @@ Bu proje, kitaplarınızı takip etmek ve okuma hedeflerinizi düzenlemek için 
 ### Kitap Görselleri
 Aşağıda uygulamaya ait görseller bulunmaktadır:
 
-![Book 1](book/image/book1.png)
-![Book 2](book/image/book2.png)
-![Book 3](book/image/book3.png)
-![Book 4](book/image/book4.png)
-![Book 5](book/image/book5.png)
-![Book 6](book/image/book6.png)
+![Book 1](book1.png)
+![Book 2](book2.png)
+![Book 3](book3.png)
+![Book 4](book4.png)
+![Book 5](book5.png)
+![Book 6](book6.png)
 
 ---
 
